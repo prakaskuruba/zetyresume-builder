@@ -1,4 +1,6 @@
-import Footer from "./Components/Footer";
+import Footer from "./Components/Footer.jsx"; // Import the Footer component
+import "./Components/Footer.css"; // Import the CSS file for styling
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
